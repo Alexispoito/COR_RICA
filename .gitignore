@@ -1,0 +1,30 @@
+# macOS system file
+.DS_Store
+
+# Windows system file
+Thumbs.db
+
+# Logs (in case any are generated)
+*.log
+
+# Temporary files or backups created by editors
+*.tmp
+*.swp
+
+# Node.js dependencies (if you're using Node.js tools)
+node_modules/
+
+# Build output directories (if you compile assets)
+dist/
+build/
+
+# Cache or temp folders
+.cache/
+.tmp/
+
+# IDE (Integrated Development Environment) or text editor settings
+.vscode/
+.idea/
+
+# SASS cache (if you use SASS for CSS)
+.sass-cache/
